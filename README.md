@@ -8,4 +8,4 @@ IHM_2 files extend those from IHM and are employed to infer boarding locations w
 
 For full details of the data-linkage process please see the project Wiki.
 
-For further details about the project see [https://www.cdrc.ac.uk/research/healthymobility/][https://www.cdrc.ac.uk/research/healthymobility/]
+For further details about the project see [https://www.cdrc.ac.uk/research/healthymobility/]
