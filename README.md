@@ -7,3 +7,5 @@ IHM_1 files are concered with linking AFC, AVL and Timetable for overlapping tim
 IHM_2 files extend those from IHM and are employed to infer boarding locations where AVL data are not available.
 
 For full details of the data-linkage process please see the project Wiki.
+
+For further details about the project see [https://www.cdrc.ac.uk/research/healthymobility/][https://www.cdrc.ac.uk/research/healthymobility/]
